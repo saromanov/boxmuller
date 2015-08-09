@@ -20,6 +20,9 @@ console.log(boxmuller(0,1, 50));
 */
 
 ```
+## API
+### boxmuller(mu, sigma, n)
+
 
 ## Licence
 MIT
